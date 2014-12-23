@@ -1,0 +1,22 @@
+background: rgba(0, 0, 0, 0.02);
+z-index: 2;
+border-top-right-radius: 2px;
+box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2),
+            0 25px 50px 0 rgba(0, 0, 0, 0.15);
+position: absolute;
+position: relative;
+border-top: 1px dotted #adadad;
+display: block;
+text-shadow;
+line-height: 43px;
+word-break: break-word;
+text-decoration: line-through;
+#todo-list li.editing:last-child {
+	margin-bottom: -1px;
+}
+list-style: none;
+display: inline;
+text-decoration: none;
+font-weight: bold;
+float: right;
+，已经由欧阳修改插件参数解决
